@@ -1,0 +1,5 @@
+kodun içerisinde profil resmini değiştirmek için filechooser mevcut ancak login sayfasındaki arka planı değiştirmek için 624. satırdaki dosya path ini istediğiniz resim dosyası için değiştirin.
+kodun içerisindeki search friends fonksiyonunun çalışması için 236. satırdaki data path ini name_dataset.csv yi gösterecek şekilde değiştirin.
+
+
+searchpanel de kullanılan 407. satırdaki şirket ve maaş verilerinin dataseti için klasörün içinde job_dataset.csv dosyasının file path ini kopyalayıp yazın
